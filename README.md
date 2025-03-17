@@ -1,6 +1,8 @@
 # Random-Persona API Mini-Projeto
 
-Este mini-projeto consome a API RandomUser para gerar e exibir perfis de usuários aleatórios. Ele permite praticar o consumo de APIs, manipulação de dados em JavaScript e exibição dinâmica de informações na interface.
+## Este mini-projeto consome a API RandomUser para gerar e exibir perfis de usuários aleatórios. Ele permite praticar o consumo de APIs, manipulação de dados em JavaScript e exibição dinâmica de informações na interface
+
+### **Aviso:** As informações contidas neste repositório devem ser utilizadas exclusivamente para fins éticos. Qualquer uso indevido, com a intenção de prejudicar ou violar normas éticas, não
 
 ## Funcionalidades
 
@@ -45,4 +47,3 @@ fetch('https://randomuser.me/api/')
 ## Referências
 
 [RandomUser API](https://randomuser.me/)
-
