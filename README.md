@@ -12,9 +12,7 @@
 
 ## Tecnologias Utilizadas
 
-- `HTML`
-- `CSS`
-- `JavaScript (Fetch API)`
+![Tecnologias](https://skillicons.dev/icons?i=html,css,js,bootstrap)
 
 ## Como Usar
 
